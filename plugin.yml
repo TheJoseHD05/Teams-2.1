@@ -1,0 +1,13 @@
+name: Teams
+main: jose\PhP
+api: [1.0.0, 2.0.0]
+version: 9.8.7
+author: jose
+
+commands:
+    team:
+        usage: /team <team>
+        description: select team
+    teamhelp:
+        usage: /teamhelp
+        description: info
